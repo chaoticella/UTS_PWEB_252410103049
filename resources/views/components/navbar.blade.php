@@ -5,7 +5,6 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarNav">
-            @if(!empty($username))
             <ul class="navbar-nav me-auto">
                 <li class="nav-item">
                     <a class="nav-link" href="{{ route('dashboard', ['username' => $username]) }}">Dashboard</a>
@@ -21,7 +20,6 @@
                 Halo, {{ $username }}!
             </span>
             <a href="{{ route('login') }}" class="btn btn-outline-light btn-sm">Logout</a>
-            @endif
         </div>
     </div>
 </nav>
