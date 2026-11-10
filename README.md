@@ -14,11 +14,11 @@
 ## Tampilan Website
 
 1. **Login Page**
-    ![Login Page] (assets/login.png)
+    ![Login Page](assets/login.png)
 2. **Dashboard Page**
-    ![Dashboard Page] (assets/dashboard.png)
+    ![Dashboard Page](assets/dashboard.png)
 3. **Pengelolaan Page**
-    ![Pengelolaan Page] (assets/pengelolaan.png)
+    ![Pengelolaan Page](assets/pengelolaan.png)
 4. **Profile Page**
-    ![Profile Page] (assets/profile.png)
+    ![Profile Page](assets/profile.png)
 
